@@ -1,0 +1,6 @@
+#ignore cache file
+*.pyc
+/__pycache__/
+.vscode/launch.json
+tempCodeRunnerFile.py
+rapport.csv

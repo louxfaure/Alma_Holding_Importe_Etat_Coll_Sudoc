@@ -1,0 +1,6 @@
+[submodule "Alma_Apis_Interface"]
+	path = Alma_Apis_Interface
+	url = https://github.com/louxfaure/Alma_Apis_Interface
+[submodule "Abes_Apis_Interface"]
+	path = Abes_Apis_Interface
+	url = https://github.com/louxfaure/Abes_Apis_Interface
